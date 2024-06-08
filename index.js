@@ -87,6 +87,11 @@ const listPassword = [
     username: "b-07**",
     password: "000111010000010000000001011011110000100001101011010100010001010000100010011011010000001100111000",
   },
+  {
+     app: "Đột kích",
+     username: "mshopk*****",
+     password: "010000000000011001000100001111100110111000101001010101100101111000011011",
+  }
 ];
 const listPasswordDom = () => document.getElementById("list-password");
 
