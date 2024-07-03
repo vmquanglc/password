@@ -89,7 +89,12 @@ const listPassword = [
   },
   {
      app: "Đột kích",
-     username: "mshopk*****",
+     username: "mshopkeepermshopkeeper",
+     password: "010000000000011001000100001111100110111000101001010101100101111000011011",
+  },
+  {
+     app: "Đột kích",
+     username: "xuandung2k55",
      password: "010000000000011001000100001111100110111000101001010101100101111000011011",
   }
 ];
