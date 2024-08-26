@@ -96,7 +96,12 @@ const listPassword = [
      app: "Đột kích",
      username: "xuandung2k55",
      password: "010000000000011001000100001111100110111000101001010101100101111000011011",
-  }
+  },
+  {
+     app: "VSSID",
+     username: "số BHXH",
+     password: "000111000000001000001011011011010000010101101001",
+  },
 ];
 const listPasswordDom = () => document.getElementById("list-password");
 
