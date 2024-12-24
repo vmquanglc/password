@@ -56,12 +56,12 @@ const listPassword = [
   },
   {
     app: "Linkedin",
-    username: "vm*******@gmail.com",
-    password: "010000000000000101000011011011110100101101101100010101100001010101010111",
+    username: "vmquangl*@gmail.com",
+    password: "",
   },
   {
     app: "http://dangkyhoc.mta.edu.vn/dkmh/login.asp",
-    username: "1715****",
+    username: "1715005*",
     password: "000111100000001000000110011011110000101101101011010100000001101001010100",
   },
   {
