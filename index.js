@@ -1,8 +1,8 @@
 const listPassword = [
   {
     app: "Github",
-    username: "vmquanglc@gmail.com",
-    password: "011010110101111101000110001100110100100000111111001001100110101101010111",
+    username: "vmquangl*@gmail.com",
+    password: "",
   },
   {
     app: "ELSA",
@@ -11,8 +11,8 @@ const listPassword = [
   },
   {
     app: "misajsc",
-    username: "0978******",
-    password: "01111101010000110111001000110101010110100110111101010000000111010101001000011101010110000110001000011001",
+    username: "097879308*",
+    password: "",
   },
   {
     app: "appleId",
@@ -31,18 +31,13 @@ const listPassword = [
   },
   {
     app: "Facebook",
-    username: "vm*******@gmail.com",
-    password: "011010100000010101010000011010000101101101101010000100000001110101010010",
+    username: "vmquang9*@gmail.com",
+    password: "",
   },
   {
     app: "Facebook",
     username: "vm*******@gmail.com",
     password: "01101010000000010101010001101000010010110110110000001011000111110001001100011000",
-  },
-  {
-    app: "Github",
-    username: "vm*******@gmail.com",
-    password: "0101101000000111010000110110111101010001011011000000000100011001",
   },
   {
     app: "Google",
