@@ -15,6 +15,11 @@ const listPassword = [
     password: "",
   },
   {
+    app: "esign",
+    username: "vmquangl*@gmail.com",
+    password: "",
+  },
+  {
     app: "appleId",
     username: "vm******@gmail.com",
     password: "01101101000000100101101101101010010010110110110001010110000111010101101100011001",
