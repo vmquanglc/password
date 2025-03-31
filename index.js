@@ -1,5 +1,10 @@
 const listPassword = [
   {
+    app:"amazon",
+    username:"quangmvlc@gmail.com",
+    password:""
+  },
+  {
     app: "Github",
     username: "vmquanglc@gmail.com",
     password: "",
